@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
     return (
         <>
-            <h1>Hello</h1>
+            <h1>{import.meta.env.VITE_APPWRITE_URL}</h1>
         </>
     );
 }
