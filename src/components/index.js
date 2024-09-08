@@ -8,6 +8,7 @@ import Input from "./Input";
 import Login from "./Login";
 import Postcard from "./Postcard";
 import Signup from "./Signup";
+import RTE from "./RTE";
 import Select from "./Select";
 import AuthLayout from "./AuthLayout";
 
